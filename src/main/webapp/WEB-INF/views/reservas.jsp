@@ -10,7 +10,7 @@
 <body>
 <form action="r" method="get">
 <div class="jumbotron">
-	<h1>Reserva Venta</h1>
+	<h1>Reserva Venta!</h1>
 </div>	
 <div class="container">
 <div class="form-group">
